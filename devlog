@@ -1,3 +1,13 @@
 {
-  "body": "Added:\n- Silent Aim\n- Updated ESP Lib\nRemoved:\n- Bad ESP Lib\n- Old UI Lib"
+  "added": [
+    "Silent Aim",
+    "Updated ESP Lib",
+    "Player Chams",
+    "Gun Chams",
+    "New UI"
+  ],
+  "removed": [
+    "Bad ESP Lib",
+    "Old UI Lib"
+  ]
 }
