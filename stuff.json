@@ -1,0 +1,16 @@
+{
+    "devlogs": [
+        {
+            "date": "2024-09-07",
+            "added": ["Feature 1", "Feature 2"],
+            "removed": ["Feature 3"],
+            "video": "video.mp4"
+        },
+        {
+            "date": "2024-09-01",
+            "added": ["Feature A", "Feature B"],
+            "removed": ["Feature C", "Feature D"],
+            "video": null
+        }
+    ]
+}
