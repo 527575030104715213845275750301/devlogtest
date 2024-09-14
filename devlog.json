@@ -1,13 +1,14 @@
 {
   "added": [
-    "Silent Aim",
-    "Updated ESP Lib",
-    "Player Chams",
-    "Gun Chams",
-    "New UI"
+    "New Insta Hit",
+    "Crosshairs",
+    "Anti Aim",
+    "Thrid Person",
+    "Improved performance",
+    "New UI Library"
   ],
   "removed": [
-    "Bad ESP Lib",
-    "Old UI Lib"
+    "Old UI Lib",
+    "FPS drops"
   ]
 }
